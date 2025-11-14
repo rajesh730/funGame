@@ -5,7 +5,7 @@ const App = () => {
   const [noPosition, setNoPosition] = useState({ left: 0, top: 0 });
 
   const handleYes = () => {
-    setMessage("I knew it! ❤️");
+    setMessage("I knew it! ❤️- love you too😘");
   };
 
   const handleNo = () => {
